@@ -1,4 +1,4 @@
-vim-classes
+Vim training class notes
 ===========
 
-Class notes from my vim training
+Class notes from te Vim classes I taught at BuffaloLab. There will be videos available at a later point
