@@ -1,13 +1,13 @@
 Huckleberry Vim
 ===============
 
-Overview of class one:
-Moving: [NORM] hjklwbefFtT
-Inserting: [NORM] aAsSoOiIC
-Writing: [NORM]:w <file>
-Quitting: [NORM]:q
-Searching: /?*,g*,#,g#,nN
-Copy/Paste: yYpP
+	Overview of class one:
+	Moving: [NORM] hjklwbefFtT
+	Inserting: [NORM] aAsSoOiIC
+	Writing: [NORM]:w <file>
+	Quitting: [NORM]:q
+	Searching: /?*,g*,#,g#,nN
+	Copy/Paste: yYpP
 
 Understanding the Argument/Noun/Verb Relationship
 =================================================
