@@ -1,5 +1,5 @@
 Joy of Painting[1] with Bob Ross[2]
-=
+===
 
 	[1] - Vim
 	[2] - Shawn Biddle
@@ -29,6 +29,16 @@ Pen to the page
 	o - Enter insert mode on the next line
 	O - enter insert mode on the above line
 	C - Delete from cursor to end of line and begin insert
+
+Changing modes
+===
+
+	Insert -> Normal : ESC/CTRL [
+	Insert -> Command : (Insert -> Normal) -> :
+
+	Normal -> COmmand : :
+	Normal -> Insert Insert : iIsScCoO
+	Command -> Normal : Enter
 
 	This is a test sentence
 	
@@ -103,10 +113,10 @@ Copy/Paste
 	P - paste before cursor
 	v - Visual selection
 
-# vim: set syn=mkd :
 Undoing your changes
 ===
 
 	u - undo stuff
 	Ctrl-R - redo stuff
- 
+
+# vim: set syn=mkd :
